@@ -1,0 +1,148 @@
+.tlheader {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.tlheader .navbar1 {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0;
+    position: fixed;
+    top: 0%;
+}
+
+.tlheader .navbar1 img {
+    width: 50px;
+    height: 25px;
+}
+
+.tlheader .navbar1 a {
+    text-decoration: none;
+    color: black;
+}
+.tlheader .navbar2 {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.tlheader .navbar2 img {
+    width: 50px;
+    height: 20px;
+}
+
+.divdiv {
+    height: 300px;
+    background-image: url(image/flower.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 60px;
+    text-align: center;
+
+}
+.divdiv p {
+    color: white;
+    font-size: 40px;
+}
+
+.divdiv h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+.diva {
+    margin-left: 300px;
+    width: 700px;
+    
+
+}
+
+.diva h1 {
+    margin-left: 200px; 
+    font-size: 30px;
+    font-family: sans-serif;
+    
+
+}
+
+.diva p {
+    margin-left: 160px;
+    font-size: 20px;
+}
+
+.head2 {
+    
+    height: 405px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+.head2 .dove {
+
+    height: 400px;
+    width: 300px;
+    text-align: center;
+
+}
+
+.head2 .dove .nov {
+    
+    height: 320px;
+    width: 300px;
+}
+
+.head2 .dove .nov img {
+    height: 320px;
+    width: 300px;
+}
+
+
+.head2 .dove .pp a {
+    text-decoration: none;
+    color: black;
+}
+
+.butt1 {
+    margin-left: 490px;
+    height: 39px;
+    width: 300px;
+    border-radius: 50px;
+    border: 3px solid blue;
+    color: blue;
+}
+
+.foot1 {
+    border: 2px solid blue;
+    height: 230px;
+    margin-top: 20px;
+     background-color: aliceblue;
+     text-align: center;
+
+}
+
+
+.butt2 {
+    height: 44px;
+    width: 120px;
+    border: 1px solid blue;
+    margin-top: 3px;
+    margin-left: -5px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: blue;
+    color: white;
+}
+.foot1 input{
+    height: 40px;
+    width: 200px;
+    border: 1px solid blue;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
